@@ -1,4 +1,4 @@
-# Aula 01
+# Aula 01 - O problema do paradigma Procedural
 
 Aula com o objetivo de apresentar o paradigma de Orientação a Objetos, evidenciando problemas com o paradigma Procedural e como a POO soluciona várias questões do paradigma anterior.  
 
